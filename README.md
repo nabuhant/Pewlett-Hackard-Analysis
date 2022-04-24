@@ -11,7 +11,7 @@ Module7_SQL
 dept_no matches in 1 and 2
 
 
-# Two more tables:
+# Two more tables Two more tables:
 Most retirees are from senior engineering and senior staff departments. Find posible candidates to replace by department, title, and experience.
 
 The analysis should contain the following:
