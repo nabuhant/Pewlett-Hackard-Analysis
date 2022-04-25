@@ -14,7 +14,7 @@ Below is a snapshot of the rteirement_titles table. The table holds eligible to 
 ![image1](https://github.com/nabuhant/Pewlett-Hackard-Analysis/blob/main/Data/Challenge%20Data%20Files/Tables%20Screenshots/1_retirement_titles.PNG)  
 
 
-Below is a snapshot of the unique_titles table extracted from retirement_titles table. It holds eligible to retire employees' information and current job titles (if they are stil working). In total there is 72,458 individuals eligible to retire.
+Below is a snapshot of the unique_titles table extracted from retirement_titles table. It holds eligible to retire employees' information and current job titles (if they are stil working). In total there is 72,458 individuals eligible to retire.  
 ![image2](https://github.com/nabuhant/Pewlett-Hackard-Analysis/blob/main/Data/Challenge%20Data%20Files/Tables%20Screenshots/2_unique_titles.PNG) 
 
 Below is the retiring_titles table which was generated based on the uniques_titles table. It holds the number of eligible to retire employees for each job title in the company.  
