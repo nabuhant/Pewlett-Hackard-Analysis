@@ -33,9 +33,10 @@ Based on the tables above the following conclusions can be drawn:
 # Summary
 In summary as the "silver tsunami" begins to make an impact 72,458 roles will need to be filled. The number of qualified, retirement-ready employees is just slighly over 2% of the number of roles to be filled therefore there is not enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees.  
 
-Another two table were generated to further help in drawing conlusions.  
-The table below expands on the retiring_titles data such that it groups the data by departments and then titles. The previous table showed that the Senior Engineers job title woud be the most impacted. This table further shows that the department most impacted by this title is the Development title.  
+Another two table were generated to further help in drawing conlusions.    
+
+**1 -** The table below expands on the retiring_titles data such that it groups the data by departments and then titles. The previous table showed that the Senior Engineers job title woud be the most impacted. This table further shows that the department most impacted by this title is the Development title.  
 ![image5](https://github.com/nabuhant/Pewlett-Hackard-Analysis/blob/main/Data/Challenge%20Data%20Files/Tables%20Screenshots/5_retiring_dept.PNG)  
 
-The table below is a join between the number of eligible mentors and retiring titles (or soon to be vacant titles) for every title. The table's open_to_mentor column is a ratio of soon to become vacant positions to eligible mentors. The table shows that for some titles, such as the assistant engineer title, the ratio may be manageable (17 new employees to 1 mentor) while the senior engineer is more difficult to be successful (84 new employees to 1 mentor).  
+**2 -** The table below is a join between the number of eligible mentors and retiring titles (or soon to be vacant titles) for every title. The table's open_to_mentor column is a ratio of soon to become vacant positions to eligible mentors. The table shows that for some titles, such as the assistant engineer title, the ratio may be manageable (17 new employees to 1 mentor) while the senior engineer is more difficult to be successful (84 new employees to 1 mentor).  
 ![image6](https://github.com/nabuhant/Pewlett-Hackard-Analysis/blob/main/Data/Challenge%20Data%20Files/Tables%20Screenshots/6_ratio.PNG)
